@@ -252,7 +252,7 @@ To run the game inside VS Code:
 
 1. Open the project in VS Code  
 2. Select (highlight) the file `alien_invasion.py`  
-3. Press **Alt + X** to start the game  
+3. Press **Alt + X** to start the game
 
 ⚠️ Important:  
 Only `alien_invasion.py` works as the entry point.  
@@ -261,3 +261,11 @@ If another `.py` file is selected, the game will not run correctly.
 ## 🎥 Gameplay Preview
 
 ![Alien Invasion Gameplay](screenshots/gameplay.gif)
+
+---
+
+## 🎮 Source Code
+
+View the full game repository:
+
+👉 https://github.com/jeanmarc-webdev/alien-invasion
